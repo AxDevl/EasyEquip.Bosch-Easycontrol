@@ -4,3 +4,5 @@
 
 ![EasyEquip bANNER](https://github.com/AxDevl/EasyEquip.Bosch-Easycontrol/assets/95246520/75b43cc5-401d-42f3-921e-c1efc9e8a68e)
 Coming soon...
+
+[Instructions](https://github.com/AxDevl/EasyEquip.Bosch-Easycontrol/wiki)
